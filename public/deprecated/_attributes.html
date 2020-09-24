@@ -1,0 +1,42 @@
+
+<form id="attributes">
+  <label for="str">Str: <input type="number" id="str" /></label>
+  <label for="end">End: <input type="number" id="end" /></label>
+  <label for="dex">Dex: <input type="number" id="dex" /></label>
+  <label for="int">Int: <input type="number" id="int" /></label>
+  <label for="cha">Cha: <input type="number" id="cha" /></label>
+  <label for="luc">Luc: <input type="number" id="luc" /></label>
+  <label for="psi">Psi: <input type="number" id="psi" /></label>
+</form>
+
+<!-- https://github.com/yanatan16/nanoajax -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/nanoajax/0.4.3/nanoajax.min.js" integrity="sha512-PAdYTklQfdmQ4Jx2/BHHs10nWOLoo62qoeNjh7vw72lEotZ5zEnAzvBPODpMlNL9KOVhmoJKorjbw3QI5ROgIA==" crossorigin="anonymous"></script>
+<script>
+  (function(){
+    nanoajax.ajax({ url:'/attributes'}, function (code, response) {
+      console.log(code, response);
+      Object.entries(JSON.parse(response)).forEach(([key, value]) => {
+        let input = document.getElementById(key)
+        input.value = new Number(value)
+        input.addEventListener('change', (event) => {
+          nanoajax.ajax({
+            url: `/attributes/`, 
+            method: 'GET', 
+            body: 'post=content&args=yaknow'}, 
+            function (code, responseText, request) {
+  
+          })
+        })  
+      });    
+    })
+  })();
+
+
+  /*
+  nanoajax.ajax({url: '/some-post-url', method: 'POST', body: 'post=content&args=yaknow'}, function (code, responseText, request) {
+    # code is response code
+    # responseText is response body as a string
+    # request is the xmlhttprequest, which has `getResponseHeader(header)` function
+})
+*/
+</script>

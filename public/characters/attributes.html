@@ -1,0 +1,43 @@
+<html>
+  <link rel="stylesheet" href="/assets/flex.css"/>
+  <script type="text/javascript" src="/assets/d6.js"></script>
+  <script class="local">
+    (function(){
+      fetch("/characters")
+      .then((response) => {
+        return response.json()
+      })
+      .then((json) =>{        
+        let container = document.getElementById('characters_attributes')
+        json.slice(1).forEach((character) => {          
+          let newCharacter = document.createElement('div')
+          newCharacter.id = `character-${character.id}`          
+          container.appendChild(newCharacter)
+
+          let title = document.createElement('div')          
+          title.innerHTML = character.about.name      
+          title.classList.add("full-row-title")                             
+          newCharacter.appendChild(title)
+          
+          for(let attribute in character.attributes){
+            let elem = document.createElement('div')
+            elem.classList.add("col-1")
+            elem.innerHTML = `${attribute}: ${dicesFrom(character.attributes[attribute])}`
+            newCharacter.appendChild(elem)
+          }          
+        })
+      })
+    })()
+  </script>
+  <style>
+    .container {
+      width: max-content;
+      text-transform: capitalize;
+    }
+  </style>
+  <body>
+      <h2>Attributes</h2>
+      <article id="characters_attributes" class="container">        
+      </article>
+  </body>
+</html>

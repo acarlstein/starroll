@@ -1,0 +1,2837 @@
+{
+   "Aaamazzarite": {
+      "str": -20,
+      "end": 0,
+      "int": 10,
+      "dex": 10,
+      "chr": -10,
+      "luc": -30,
+      "psi": 0
+   },
+   "Acamarian": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -20
+   },
+   "Aenar": {
+      "str": -10,
+      "end": -10,
+      "int": 0,
+      "dex": -10,
+      "chr": 0,
+      "luc": -40,
+      "psi": 40
+   },
+   "Akaali": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 5,
+      "luc": -20,
+      "psi": -30
+   },
+   "Alcyone": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": -5,
+      "luc": -20,
+      "psi": -40
+   },
+   "Aldean": {
+      "str": 0,
+      "end": 0,
+      "int": 10,
+      "dex": 0,
+      "chr": 10,
+      "luc": -30,
+      "psi": -30
+   },
+   "Algolian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": -5,
+      "chr": 0,
+      "luc": -20,
+      "psi": 0
+   },
+   "Allasomorph": {
+      "str": { "is_true_form": true, "value": -20},
+      "end": { "is_true_form": true, "value": 20},
+      "int": 0,
+      "dex": { "is_true_form": true, "value": 30},
+      "chr": { "is_true_form": true, "value": 30},
+      "luc": -40,
+      "psi": 0
+   },
+   "Alpha Centauran": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -10
+   },
+   "Andorian": {
+      "str": 10,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -20
+   },
+   "Android": {
+      "str": 30,
+      "end": 30,
+      "int": 30,
+      "dex": 30,
+      "chr": -40,
+      "luc": { "can_be_increased": false, "value": 1 },
+      "psi": { "can_be_increased": false, "value": 1 }
+   },
+   "Angelite Female": {
+      "str": 5,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 15,
+      "luc": -20,
+      "psi": -10
+   },
+   "Angelite Male": {
+      "str": -5,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 15,
+      "luc": -20,
+      "psi": -10
+   },
+   "Angosian Civilian": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -20
+   },
+   "Angosian Soldier": {
+      "str": 10,
+      "end": 10,
+      "int": 15,
+      "dex": 20,
+      "chr": -10,
+      "luc": -40,
+      "psi": -30
+   },
+   "Antaran": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": -5,
+      "luc": -30,
+      "psi": -40
+   },
+   "Antedean": {
+      "str": 5,
+      "end": 5,
+      "int": -20,
+      "dex": 0,
+      "chr": -20,
+      "luc": -40,
+      "psi": "-60"
+   },
+   "Antican": {
+      "str": 10,
+      "end": 10,
+      "int": 0,
+      "dex": 5,
+      "chr": -10,
+      "luc": -30,
+      "psi": -35
+   },
+   "Arbazan": {
+      "str": 0,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": -5,
+      "luc": -10,
+      "psi": -30
+   },
+   "Arcadian": {
+      "str": -15,
+      "end": -10,
+      "int": 10,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Arcturian": {
+      "str": 10,
+      "end": 10,
+      "int": -5,
+      "dex": -5,
+      "chr": 0,
+      "luc": -25,
+      "psi": "-45"
+   },
+   "Ardanan": {
+      "str": 0,
+      "end": 0,
+      "int": 10,
+      "dex": 0,
+      "chr": 10,
+      "luc": -10,
+      "psi": 0
+   },
+   "Argelian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 10,
+      "chr": 5,
+      "luc": -20,
+      "psi": 0
+   },
+   "Argosian": {
+      "str": 15,
+      "end": 10,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -30,
+      "psi": -40
+   },
+   "Ariolo": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": -20,
+      "chr": -10,
+      "luc": -10,
+      "psi": "-60"
+   },
+   "Arkarian": {
+      "str": 0,
+      "end": 15,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -30
+   },
+   "Arkenite": {
+      "str": -10,
+      "end": -10,
+      "int": 20,
+      "dex": 10,
+      "chr": -10,
+      "luc": -10,
+      "psi": 0
+   },
+   "Arkonian": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -20,
+      "psi": -30
+   },
+   "Atreans": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": -5,
+      "chr": -5,
+      "luc": -10,
+      "psi": 0
+   },
+   "Aurelian": {
+      "str": -5,
+      "end": -5,
+      "int": 0,
+      "dex": 25,
+      "chr": 0,
+      "luc": -20,
+      "psi": -20
+   },
+   "Axanar": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -30,
+      "psi": -20
+   },
+   "B’Saari": {
+      "str": 0,
+      "end": 5,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -40
+   },
+   "Ba’ku": {
+      "str": -5,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -25,
+      "psi": -20
+   },
+   "Bajoran": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -5
+   },
+   "Bandi": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -20,
+      "psi": -40
+   },
+   "Barkonian": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": -5,
+      "luc": -10,
+      "psi": -30
+   },
+   "Barolian": {
+      "str": -10,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": -10,
+      "luc": -20,
+      "psi": -40
+   },
+   "Barzan": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -40
+   },
+   "Benzite": {
+      "str": -5,
+      "end": -5,
+      "int": 15,
+      "dex": 5,
+      "chr": -20,
+      "luc": -30,
+      "psi": -30
+   },
+   "Berellian": {
+      "str": 0,
+      "end": 0,
+      "int": -10,
+      "dex": -10,
+      "chr": 0,
+      "luc": -40,
+      "psi": -40
+   },
+   "Betazoid": {
+      "str": -5,
+      "end": -10,
+      "int": 15,
+      "dex": -10,
+      "chr": 20,
+      "luc": -20,
+      "psi": 30
+   },
+   "Betazoid Prodigy": {
+      "str": -5,
+      "end": -10,
+      "int": 15,
+      "dex": -10,
+      "chr": -20,
+      "luc": -20,
+      "psi": "100"
+   },
+   "Betelgeusian": {
+      "str": 20,
+      "end": 10,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -40
+   },
+   "Bolian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -10,
+      "psi": -25
+   },
+   "Boraalan": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -10,
+      "psi": -40
+   },
+   "Borg Reclaimed": {
+      "str": 10,
+      "end": 5,
+      "int": 10,
+      "dex": 5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -40
+   },
+   "Boslic": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Bre’ella": {
+      "str": 0,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -20
+   },
+   "Breen": {
+      "str": 20,
+      "end": 15,
+      "int": 0,
+      "dex": 0,
+      "chr": -30,
+      "luc": -40,
+      "psi": 0
+   },
+   "Brekkian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 5,
+      "luc": -10,
+      "psi": -20
+   },
+   "Bynar": {
+      "str": -20,
+      "end": -20,
+      "int": 10,
+      "dex": 15,
+      "chr": -20,
+      "luc": -40,
+      "psi": "-60"
+   },
+   "Byzallian": {
+      "str": -10,
+      "end": -5,
+      "int": 5,
+      "dex": 10,
+      "chr": 0,
+      "luc": -30,
+      "psi": 0
+   },
+   "Byzatium": {
+      "str": 0,
+      "end": -15,
+      "int": 10,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -40
+   },
+   "Bzzit Khaht": {
+      "str": 10,
+      "end": 10,
+      "int": 0,
+      "dex": -10,
+      "chr": -15,
+      "luc": -30,
+      "psi": -40
+   },
+   "Cairn": {
+      "str": -5,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -40,
+      "psi": 40
+   },
+   "Caitian": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 20,
+      "chr": 5,
+      "luc": -10,
+      "psi": -30
+   },
+   "Caldonian": {
+      "str": 0,
+      "end": 0,
+      "int": 20,
+      "dex": 0,
+      "chr": 0,
+      "luc": -40,
+      "psi": -20
+   },
+   "Camorite": {
+      "str": 5,
+      "end": -5,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -10
+   },
+   "Capellan": {
+      "str": 10,
+      "end": 10,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -40
+   },
+   "Cardassian": {
+      "str": 5,
+      "end": 10,
+      "int": 0,
+      "dex": -5,
+      "chr": -5,
+      "luc": -10,
+      "psi": -30
+   },
+   "Catullan": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -25,
+      "psi": -30
+   },
+   "Chalnoth": {
+      "str": 20,
+      "end": 10,
+      "int": -10,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": "-50"
+   },
+   "Chameloid": {
+      "str": { "is_humanoid_form": true, "value": 20 },
+      "end": { "is_humanoid_form": true, "value": 10 },
+      "int": 0,
+      "dex": { "is_humanoid_form": true, "value": -10 },
+      "chr": { "is_humanoid_form": true, "value": -20 },
+      "luc": -40,
+      "psi": -30
+   },
+   "Chrysalian": {
+      "str": -10,
+      "end": -10,
+      "int": 15,
+      "dex": 0,
+      "chr": 0,
+      "luc": -40,
+      "psi": 0
+   },
+   "Coridan": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Corvallen": {
+      "str": 10,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -30,
+      "psi": -30
+   },
+   "Cygnian Female": {
+      "str": 15,
+      "end": 10,
+      "int": 0,
+      "dex": 0,
+      "chr": 5,
+      "luc": -20,
+      "psi": 0
+   },
+   "Cygnian Male": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 5,
+      "luc": -20,
+      "psi": -10
+   },
+   "Cytherian": {
+      "str": -10,
+      "end": 0,
+      "int": 20,
+      "dex": -5,
+      "chr": 0,
+      "luc": -40,
+      "psi": -10
+   },
+   "Dachlyd": {
+      "str": -5,
+      "end": -5,
+      "int": -5,
+      "dex": 15,
+      "chr": 0,
+      "luc": -30,
+      "psi": -30
+   },
+   "Daliwakan": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 10,
+      "luc": -20,
+      "psi": -30
+   },
+   "Deltan": {
+      "str": 0,
+      "end": 0,
+      "int": 20,
+      "dex": 0,
+      "chr": 30,
+      "luc": -20,
+      "psi": 20
+   },
+   "Denebians": {
+      "str": 0,
+      "end": 5,
+      "int": -5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -40
+   },
+   "Denobulan": {
+      "str": 0,
+      "end": 15,
+      "int": 15,
+      "dex": 5,
+      "chr": -20,
+      "luc": -40,
+      "psi": -10
+   },
+   "Dopterian": {
+      "str": 5,
+      "end": -5,
+      "int": 0,
+      "dex": 5,
+      "chr": -30,
+      "luc": -20,
+      "psi": -30
+   },
+   "Dramian": {
+      "str": 15,
+      "end": 0,
+      "int": 0,
+      "dex": -5,
+      "chr": -10,
+      "luc": -30,
+      "psi": -30
+   },
+   "Dreman": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": -5,
+      "chr": -10,
+      "luc": -20,
+      "psi": 0
+   },
+   "Edo": {
+      "str": 10,
+      "end": 10,
+      "int": 0,
+      "dex": 10,
+      "chr": 20,
+      "luc": -10,
+      "psi": -40
+   },
+   "Edoan": {
+      "str": -5,
+      "end": 0,
+      "int": 0,
+      "dex": 15,
+      "chr": 0,
+      "luc": -15,
+      "psi": -35
+   },
+   "Efrosian": {
+      "str": 5,
+      "end": 5,
+      "int": 5,
+      "dex": 5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -5
+   },
+   "Ekosian": {
+      "str": -5,
+      "end": -5,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -40
+   },
+   "El-Aurian": {
+      "str": 0,
+      "end": 10,
+      "int": 10,
+      "dex": 0,
+      "chr": 10,
+      "luc": -30,
+      "psi": 20
+   },
+   "Elasian": {
+      "str": 10,
+      "end": 10,
+      "int": 0,
+      "dex": 0,
+      "chr": 10,
+      "luc": -30,
+      "psi": -40
+   },
+   "Elaysian": {
+      "str": -20,
+      "end": -10,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Ellora": {
+      "str": 5,
+      "end": 5,
+      "int": 0,
+      "dex": -5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -40
+   },
+   "Eminian": {
+      "str": 0,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 10,
+      "luc": -30,
+      "psi": -30
+   },
+   "Enolian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -30,
+      "psi": -40
+   },
+   "Eska": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -40,
+      "psi": -30
+   },
+   "Evora": {
+      "str": -10,
+      "end": -10,
+      "int": 5,
+      "dex": 0,
+      "chr": -10,
+      "luc": -20,
+      "psi": -20
+   },
+   "Eymorg Female": {
+      "str": -5,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 20,
+      "luc": -30,
+      "psi": -20
+   },
+   "Eymorg Male (Morg)": {
+      "str": 10,
+      "end": 10,
+      "int": -10,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -20
+   },
+   "Farian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 5,
+      "luc": -30,
+      "psi": -40
+   },
+   "Ferengi": {
+      "str": 15,
+      "end": 0,
+      "int": 0,
+      "dex": 15,
+      "chr": -25,
+      "luc": -10,
+      "psi": -30
+   },
+   "Flaxian": {
+      "str": 5,
+      "end": -5,
+      "int": 0,
+      "dex": 5,
+      "chr": -10,
+      "luc": -20,
+      "psi": -40
+   },
+   "Frunalian": {
+      "str": 0,
+      "end": 0,
+      "int": 10,
+      "dex": 5,
+      "chr": 0,
+      "luc": -10,
+      "psi": -40
+   },
+   "Galadoran": {
+      "str": 10,
+      "end": 0,
+      "int": -5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -5,
+      "psi": -30
+   },
+   "Gallamite": {
+      "str": 0,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -40
+   },
+   "Genton": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Gorn": {
+      "str": 30,
+      "end": 30,
+      "int": 0,
+      "dex": -10,
+      "chr": -30,
+      "luc": -40,
+      "psi": "-60"
+   },
+   "Grazerite": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": -5,
+      "luc": -10,
+      "psi": -30
+   },
+   "Gree": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 10,
+      "chr": -10,
+      "luc": -20,
+      "psi": -30
+   },
+   "Grizzela": {
+      "str": 15,
+      "end": 20,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -40
+   },
+   "Halanan": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 10,
+      "luc": -40,
+      "psi": 20
+   },
+   "Haliian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 10,
+      "luc": -20,
+      "psi": 10
+   },
+   "Halkan": {
+      "str": 0,
+      "end": 5,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -20
+   },
+   "Haradin": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": 0
+   },
+   "Hekaran": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": -5,
+      "luc": -20,
+      "psi": -30
+   },
+   "Human": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": 0,
+      "psi": -30
+   },
+   "Human (Advanced)": {
+      "str": 5,
+      "end": 5,
+      "int": 5,
+      "dex": 5,
+      "chr": 5,
+      "luc": 0,
+      "psi": 0
+   },
+   "Human (Genetically Engineered)": {
+      "str": 20,
+      "end": 10,
+      "int": 10,
+      "dex": 10,
+      "chr": 20,
+      "luc": 0,
+      "psi": 20
+   },
+   "Hupyrian": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -30,
+      "psi": -30
+   },
+   "Idanian": {
+      "str": 0,
+      "end": 5,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Illyrian": {
+      "str": 5,
+      "end": 0,
+      "int": -5,
+      "dex": 5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Iotian": {
+      "str": 0,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Ithenite": {
+      "str": -15,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Iyaaran": {
+      "str": -5,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -40
+   },
+   "J’naii": {
+      "str": -5,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -20
+   },
+   "Jarada": {
+      "str": 0,
+      "end": 10,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -20,
+      "psi": -10
+   },
+   "Jem’Hadar Alpha": {
+      "str": 20,
+      "end": 20,
+      "int": -10,
+      "dex": 5,
+      "chr": -30,
+      "luc": -30,
+      "psi": "-50"
+   },
+   "K’Normian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": -5,
+      "luc": -10,
+      "psi": 30
+   },
+   "Kaelon": {
+      "str": -5,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Kaitlen": {
+      "str": -10,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -20
+   },
+   "Kalean": {
+      "str": 10,
+      "end": 10,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Kantare": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": -10,
+      "chr": 0,
+      "luc": -15,
+      "psi": -30
+   },
+   "Kasheeta": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": -20,
+      "chr": 10,
+      "luc": -10,
+      "psi": -40
+   },
+   "Kalar": {
+      "str": 40,
+      "end": 30,
+      "int": -10,
+      "dex": -10,
+      "chr": -10,
+      "luc": -30,
+      "psi": -40
+   },
+   "Kazarite": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": -5,
+      "chr": -10,
+      "luc": -30,
+      "psi": 20
+   },
+   "Kellerun": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -20,
+      "psi": -20
+   },
+   "Kerelian": {
+      "str": -10,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Kesprytt": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -25,
+      "psi": -35
+   },
+   "Klaestron": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": -5,
+      "chr": -5,
+      "luc": -10,
+      "psi": -30
+   },
+   "Klingon": {
+      "str": 10,
+      "end": 5,
+      "int": 0,
+      "dex": 5,
+      "chr": -20,
+      "luc": -40,
+      "psi": -30
+   },
+   "Klingon Human Fusion": {
+      "str": 10,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": -20,
+      "luc": -40,
+      "psi": "-50"
+   },
+   "Klingon Romulan Fusion": {
+      "str": 10,
+      "end": 10,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -40,
+      "psi": -40
+   },
+   "Kobheerian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": -10,
+      "chr": -10,
+      "luc": -20,
+      "psi": -40
+   },
+   "Kobliad": {
+      "str": 0,
+      "end": -20,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -20
+   },
+   "Kostolain": {
+      "str": -5,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -40,
+      "psi": -30
+   },
+   "Kotakian": {
+      "str": 0,
+      "end": 0,
+      "int": -5,
+      "dex": 5,
+      "chr": 0,
+      "luc": -5,
+      "psi": -20
+   },
+   "Kovaalan": {
+      "str": 10,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": -30,
+      "luc": -30,
+      "psi": -40
+   },
+   "Kreetassan": {
+      "str": 0,
+      "end": 10,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -20,
+      "psi": -30
+   },
+   "Kressari": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": -15,
+      "chr": -10,
+      "luc": -20,
+      "psi": -40
+   },
+   "Kriosian": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Kriosian Empathic Metamorph": {
+      "str": 0,
+      "end": 5,
+      "int": 10,
+      "dex": 5,
+      "chr": 40,
+      "luc": -20,
+      "psi": 10
+   },
+   "Ktarian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": -10,
+      "luc": -20,
+      "psi": -20
+   },
+   "Kzinti": {
+      "str": 5,
+      "end": 5,
+      "int": 0,
+      "dex": 20,
+      "chr": 5,
+      "luc": -30,
+      "psi": 0
+   },
+   "Lactran": {
+      "str": 20,
+      "end": 40,
+      "int": 30,
+      "dex": "-50",
+      "chr": "-50",
+      "luc": -40,
+      "psi": "50"
+   },
+   "Legaran": {
+      "str": -10,
+      "end": -10,
+      "int": 5,
+      "dex": -10,
+      "chr": -20,
+      "luc": -20,
+      "psi": 0
+   },
+   "Lenarian": {
+      "str": 5,
+      "end": 5,
+      "int": 0,
+      "dex": 5,
+      "chr": -10,
+      "luc": -40,
+      "psi": -40
+   },
+   "Lethean": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": -20,
+      "luc": -30,
+      "psi": 30
+   },
+   "Leyron": {
+      "str": 5,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": 0
+   },
+   "Ligonian": {
+      "str": 10,
+      "end": 5,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Lissepian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": -5,
+      "chr": -10,
+      "luc": -30,
+      "psi": -30
+   },
+   "Loque’eque": {
+      "str": 0,
+      "end": -10,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -30,
+      "psi": -30
+   },
+   "Lorillian": {
+      "str": -5,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Lothra": {
+      "str": -5,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -20,
+      "psi": -30
+   },
+   "Lumerian": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": 10
+   },
+   "Lurian": {
+      "str": 0,
+      "end": 20,
+      "int": 0,
+      "dex": -10,
+      "chr": -20,
+      "luc": -30,
+      "psi": -40
+   },
+   "Lysian": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": -5,
+      "luc": -10,
+      "psi": -30
+   },
+   "Lyssarrian": {
+      "str": 5,
+      "end": -10,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Lytasian": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -20
+   },
+   "Malcorian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": -10,
+      "chr": -5,
+      "luc": -20,
+      "psi": -30
+   },
+   "Markalian": {
+      "str": 5,
+      "end": 0,
+      "int": 0,
+      "dex": -5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -30
+   },
+   "Mathenite": {
+      "str": -10,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Mazarite": {
+      "str": 5,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Medusan": {
+      "str": "–",
+      "end": 20,
+      "int": 30,
+      "dex": "–",
+      "chr": "-60",
+      "luc": -20,
+      "psi": 40
+   },
+   "Megarite": {
+      "str": 5,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -30,
+      "psi": -30
+   },
+   "Melkot": {
+      "str": 0,
+      "end": 20,
+      "int": 20,
+      "dex": -15,
+      "chr": -30,
+      "luc": -40,
+      "psi": "50"
+   },
+   "Melthusian": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 5,
+      "luc": -20,
+      "psi": -10
+   },
+   "Menk": {
+      "str": 5,
+      "end": 5,
+      "int": -10,
+      "dex": 0,
+      "chr": -5,
+      "luc": -10,
+      "psi": -40
+   },
+   "Metron": {
+      "str": 0,
+      "end": 20,
+      "int": 30,
+      "dex": 0,
+      "chr": 30,
+      "luc": -30,
+      "psi": 30
+   },
+   "Mikulak": {
+      "str": 5,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": 10
+   },
+   "Minaran": {
+      "str": -5,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 20,
+      "luc": -20,
+      "psi": 20
+   },
+   "Mintakan": {
+      "str": 10,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": 0
+   },
+   "Miradorn": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -20,
+      "psi": -40
+   },
+   "Mizarian": {
+      "str": -5,
+      "end": 0,
+      "int": 10,
+      "dex": 0,
+      "chr": -10,
+      "luc": -30,
+      "psi": -30
+   },
+   "Mordanite": {
+      "str": 5,
+      "end": 10,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -40
+   },
+   "Moropa": {
+      "str": -10,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": -5,
+      "luc": -20,
+      "psi": -30
+   },
+   "Mulzirak": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -10,
+      "psi": -40
+   },
+   "Napean": {
+      "str": 0,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": 10
+   },
+   "Nausicaan": {
+      "str": 15,
+      "end": 10,
+      "int": -5,
+      "dex": 0,
+      "chr": -20,
+      "luc": -30,
+      "psi": -40
+   },
+   "Neural Native": {
+      "str": 5,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Noophian": {
+      "str": 0,
+      "end": -10,
+      "int": 0,
+      "dex": -5,
+      "chr": 0,
+      "luc": -10,
+      "psi": -40
+   },
+   "Nuvian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 20,
+      "chr": 10,
+      "luc": -20,
+      "psi": -20
+   },
+   "Omega IV Native": {
+      "str": 5,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Oolan": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -40
+   },
+   "Oran’taku": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 10,
+      "luc": -10,
+      "psi": -30
+   },
+   "Organian": {
+      "str": "–",
+      "end": 30,
+      "int": 30,
+      "dex": 30,
+      "chr": 30,
+      "luc": -20,
+      "psi": 20
+   },
+   "Orion (Ruddy)": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -25,
+      "psi": -30
+   },
+   "Orion (Grey)": {
+      "str": -20,
+      "end": -20,
+      "int": 20,
+      "dex": 10,
+      "chr": -20,
+      "luc": -25,
+      "psi": -25
+   },
+   "Orion (Green)": {
+      "str": 10,
+      "end": 10,
+      "int": -30,
+      "dex": 20,
+      "chr": 40,
+      "luc": -25,
+      "psi": -30
+   },
+   "Ornaran": {
+      "str": 0,
+      "end": -10,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Osaarian": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": -5,
+      "chr": -5,
+      "luc": -30,
+      "psi": -40
+   },
+   "Pakled": {
+      "str": 5,
+      "end": -5,
+      "int": -10,
+      "dex": -5,
+      "chr": -30,
+      "luc": -40,
+      "psi": -40
+   },
+   "Palamarian": {
+      "str": 0,
+      "end": 10,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -30
+   },
+   "Pandronian": {
+      "str": -10,
+      "end": -5,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Paraagan": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 5,
+      "luc": -20,
+      "psi": -30
+   },
+   "Pardshay’s Species": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 15,
+      "chr": -10,
+      "luc": -30,
+      "psi": -40
+   },
+   "Peliar Zel Native": {
+      "str": -10,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": -5,
+      "luc": -30,
+      "psi": -30
+   },
+   "Peljenite": {
+      "str": 5,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -20
+   },
+   "Pelosian": {
+      "str": 0,
+      "end": 0,
+      "int": -5,
+      "dex": 10,
+      "chr": 0,
+      "luc": -20,
+      "psi": -20
+   },
+   "Petarian": {
+      "str": 0,
+      "end": -10,
+      "int": -5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -25,
+      "psi": -40
+   },
+   "Phylosian": {
+      "str": 10,
+      "end": 10,
+      "int": 0,
+      "dex": -10,
+      "chr": 0,
+      "luc": -30,
+      "psi": -30
+   },
+   "Platonian": {
+      "str": 0,
+      "end": 0,
+      "int": 10,
+      "dex": 0,
+      "chr": 10,
+      "luc": -30,
+      "psi": 30
+   },
+   "Proxcinian": {
+      "str": 10,
+      "end": 0,
+      "int": -5,
+      "dex": 10,
+      "chr": 0,
+      "luc": -40,
+      "psi": -30
+   },
+   "Pygorian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": -10,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Pythron": {
+      "str": 5,
+      "end": 15,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -25
+   },
+   "Ramatis III Native": {
+      "str": 0,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 10,
+      "luc": -30,
+      "psi": 30
+   },
+   "Rasiinian": {
+      "str": 0,
+      "end": 0,
+      "int": 10,
+      "dex": 5,
+      "chr": -30,
+      "luc": -30,
+      "psi": -10
+   },
+   "Reegrunion": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Regalian": {
+      "str": 0,
+      "end": 0,
+      "int": 10,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -30
+   },
+   "Rekag": {
+      "str": 0,
+      "end": -10,
+      "int": 0,
+      "dex": 0,
+      "chr": -5,
+      "luc": -25,
+      "psi": -25
+   },
+   "Reman": {
+      "str": 20,
+      "end": 10,
+      "int": 0,
+      "dex": 5,
+      "chr": -20,
+      "luc": -30,
+      "psi": 10
+   },
+   "Retellian": {
+      "str": 0,
+      "end": 10,
+      "int": 0,
+      "dex": 5,
+      "chr": -10,
+      "luc": -30,
+      "psi": -40
+   },
+   "Rhaandarite": {
+      "str": -10,
+      "end": 10,
+      "int": 10,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -30
+   },
+   "Rigelian": {
+      "str": 10,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -40
+   },
+   "Rigellian": {
+      "str": 15,
+      "end": 0,
+      "int": 0,
+      "dex": -10,
+      "chr": -5,
+      "luc": -30,
+      "psi": -30
+   },
+   "Risian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 15,
+      "luc": -10,
+      "psi": -30
+   },
+   "Roman  892-IV": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Romulan": {
+      "str": 10,
+      "end": 10,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -10,
+      "psi": -20
+   },
+   "Ruji": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 10,
+      "chr": 10,
+      "luc": -20,
+      "psi": -25
+   },
+   "Rutian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -10,
+      "psi": -35
+   },
+   "Sarda’s Species": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 10,
+      "chr": 10,
+      "luc": -30,
+      "psi": -30
+   },
+   "Sarthongian": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Satarran": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": -5,
+      "chr": -10,
+      "luc": -20,
+      "psi": -40
+   },
+   "Saurian": {
+      "str": 20,
+      "end": 10,
+      "int": 10,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -30
+   },
+   "Scathos": {
+      "str": 5,
+      "end": -10,
+      "int": -5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Selay": {
+      "str": 10,
+      "end": 10,
+      "int": 0,
+      "dex": 5,
+      "chr": -10,
+      "luc": -30,
+      "psi": -20
+   },
+   "Shamin": {
+      "str": 0,
+      "end": 0,
+      "int": 5,
+      "dex": 10,
+      "chr": 0,
+      "luc": -10,
+      "psi": -10
+   },
+   "Skagaran": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Skorr": {
+      "str": 20,
+      "end": 20,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Solari": {
+      "str": 5,
+      "end": 0,
+      "int": -5,
+      "dex": 0,
+      "chr": -20,
+      "luc": -30,
+      "psi": -30
+   },
+   "Son’a": {
+      "str": 0,
+      "end": -5,
+      "int": 10,
+      "dex": 0,
+      "chr": -30,
+      "luc": -10,
+      "psi": -10
+   },
+   "Sord’s Species": {
+      "str": 20,
+      "end": 0,
+      "int": 0,
+      "dex": 20,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Subytt": {
+      "str": -5,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Suliban": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 5,
+      "chr": -30,
+      "luc": -10,
+      "psi": -30
+   },
+   "T’Lani": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": -5,
+      "chr": 0,
+      "luc": -10,
+      "psi": -20
+   },
+   "T’lli Betan": {
+      "str": -10,
+      "end": 10,
+      "int": 0,
+      "dex": 10,
+      "chr": -20,
+      "luc": -10,
+      "psi": -40
+   },
+   "Tagran": {
+      "str": 0,
+      "end": -10,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -10,
+      "psi": 0
+   },
+   "Taguan": {
+      "str": 0,
+      "end": 0,
+      "int": 10,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -5
+   },
+   "Takaran": {
+      "str": 5,
+      "end": 15,
+      "int": 0,
+      "dex": -5,
+      "chr": "",
+      "luc": -30,
+      "psi": -10
+   },
+   "Takret": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -20,
+      "psi": -40
+   },
+   "Talarian": {
+      "str": 10,
+      "end": -10,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -30
+   },
+   "Talavian": {
+      "str": 0,
+      "end": 0,
+      "int": -5,
+      "dex": 0,
+      "chr": 5,
+      "luc": -30,
+      "psi": -40
+   },
+   "The Children of Tama": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 5,
+      "chr": -10,
+      "luc": -30,
+      "psi": -30
+   },
+   "Tandaran": {
+      "str": -5,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -40
+   },
+   "Tanugan": {
+      "str": -5,
+      "end": -10,
+      "int": 0,
+      "dex": 5,
+      "chr": -10,
+      "luc": -20,
+      "psi": -30
+   },
+   "Tarahongian": {
+      "str": 5,
+      "end": -20,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -20,
+      "psi": -25
+   },
+   "Tarellian": {
+      "str": 0,
+      "end": 0,
+      "int": 10,
+      "dex": 5,
+      "chr": 0,
+      "luc": -25,
+      "psi": 0
+   },
+   "Tarkalean": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": -5,
+      "chr": -10,
+      "luc": -20,
+      "psi": -20
+   },
+   "Tarkanian": {
+      "str": 20,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Tarkannan": {
+      "str": 0,
+      "end": 5,
+      "int": -10,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Tarlac": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 5,
+      "chr": 5,
+      "luc": -10,
+      "psi": -40
+   },
+   "Tarquin’s Species": {
+      "str": 0,
+      "end": 10,
+      "int": 0,
+      "dex": 5,
+      "chr": -10,
+      "luc": -30,
+      "psi": 0
+   },
+   "Tavnian": {
+      "str": -10,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Teldarian": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Tellarite": {
+      "str": 5,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -20,
+      "psi": -40
+   },
+   "Tellurian": {
+      "str": 15,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -25
+   },
+   "Terellian": {
+      "str": 0,
+      "end": 10,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Terrelian": {
+      "str": 0,
+      "end": -10,
+      "int": 0,
+      "dex": 5,
+      "chr": 10,
+      "luc": -10,
+      "psi": -30
+   },
+   "Terrellian": {
+      "str": 10,
+      "end": 10,
+      "int": 0,
+      "dex": 10,
+      "chr": -20,
+      "luc": -30,
+      "psi": -40
+   },
+   "Tesnian": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 15,
+      "chr": -10,
+      "luc": -25,
+      "psi": -20
+   },
+   "Tessic’s Species": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Tholian": {
+      "str": 20,
+      "end": 20,
+      "int": 0,
+      "dex": 20,
+      "chr": -30,
+      "luc": -40,
+      "psi": 0
+   },
+   "Tiburonian": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Tilonian": {
+      "str": -5,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Tiron’s Species": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 5,
+      "chr": -10,
+      "luc": -40,
+      "psi": -20
+   },
+   "Tret’s Species": {
+      "str": 5,
+      "end": -10,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -20
+   },
+   "Triannon": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": -5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Trill": {
+      "str": -10,
+      "end": 5,
+      "int": 10,
+      "dex": 0,
+      "chr": 10,
+      "luc": -10,
+      "psi": -30
+   },
+   "Troyian": {
+      "str": 5,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -20
+   },
+   "Tygarian": {
+      "str": -5,
+      "end": -5,
+      "int": 0,
+      "dex": 5,
+      "chr": -10,
+      "luc": -10,
+      "psi": -30
+   },
+   "Tyran": {
+      "str": 0,
+      "end": 0,
+      "int": 5,
+      "dex": 5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -10
+   },
+   "Tyrellian": {
+      "str": -10,
+      "end": -10,
+      "int": 0,
+      "dex": 15,
+      "chr": 0,
+      "luc": -30,
+      "psi": -20
+   },
+   "Tzenkethi": {
+      "str": 30,
+      "end": 20,
+      "int": -5,
+      "dex": 10,
+      "chr": -10,
+      "luc": -30,
+      "psi": -40
+   },
+   "U’tani": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "U’tani Serpent Woman": {
+      "str": 10,
+      "end": 5,
+      "int": -5,
+      "dex": 15,
+      "chr": 20,
+      "luc": -10,
+      "psi": -30
+   },
+   "Ullian": {
+      "str": -10,
+      "end": -5,
+      "int": 10,
+      "dex": -5,
+      "chr": 0,
+      "luc": -30,
+      "psi": 30
+   },
+   "Ursinoid": {
+      "str": 20,
+      "end": 30,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "V’radian": {
+      "str": -5,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": -10,
+      "luc": -30,
+      "psi": -25
+   },
+   "Vaalian": {
+      "str": 5,
+      "end": 10,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Valerian": {
+      "str": 5,
+      "end": 0,
+      "int": 0,
+      "dex": -5,
+      "chr": -10,
+      "luc": -30,
+      "psi": -30
+   },
+   "Valtese": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Varalan": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -20
+   },
+   "Vedala": {
+      "str": 5,
+      "end": -10,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Vendorian": {
+      "str": -20,
+      "end": 0,
+      "int": 0,
+      "dex": 30,
+      "chr": 0,
+      "luc": -30,
+      "psi": 0
+   },
+   "Vendikan": {
+      "str": -5,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 5,
+      "luc": -10,
+      "psi": -30
+   },
+   "Ventaxian": {
+      "str": -5,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Vilix’pran’s Species": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Vissian": {
+      "str": -5,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Vlugtan": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 10,
+      "chr": 0,
+      "luc": -20,
+      "psi": -10
+   },
+   "Vulcan": {
+      "str": 20,
+      "end": 10,
+      "int": 10,
+      "dex": 0,
+      "chr": 0,
+      "luc": -40,
+      "psi": 0
+   },
+   "Worene’s Species": {
+      "str": 10,
+      "end": 10,
+      "int": -10,
+      "dex": 5,
+      "chr": -30,
+      "luc": -20,
+      "psi": -40
+   },
+   "Xantoran": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -20,
+      "psi": -30
+   },
+   "Xarantine": {
+      "str": -5,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -10
+   },
+   "Xelatian": {
+      "str": -10,
+      "end": 10,
+      "int": 0,
+      "dex": 15,
+      "chr": 0,
+      "luc": -30,
+      "psi": 20
+   },
+   "Xepolite": {
+      "str": 5,
+      "end": 5,
+      "int": 0,
+      "dex": -5,
+      "chr": -5,
+      "luc": -10,
+      "psi": -30
+   },
+   "Xindi-Aquatic": {
+      "str": -10,
+      "end": 10,
+      "int": 0,
+      "dex": -10,
+      "chr": -10,
+      "luc": -20,
+      "psi": -30
+   },
+   "Xindi-Arboreal": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": -10,
+      "chr": 0,
+      "luc": -30,
+      "psi": -30
+   },
+   "Xindi-Insectoid": {
+      "str": 0,
+      "end": 5,
+      "int": 0,
+      "dex": 10,
+      "chr": -10,
+      "luc": -20,
+      "psi": -30
+   },
+   "Xindi-Primate": {
+      "str": -5,
+      "end": -5,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Xindi-Reptilian": {
+      "str": 20,
+      "end": 20,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -40
+   },
+   "Xyrillian": {
+      "str": 0,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Yalosian": {
+      "str": 0,
+      "end": -5,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -20,
+      "psi": -20
+   },
+   "Yattho": {
+      "str": -5,
+      "end": -5,
+      "int": 0,
+      "dex": 0,
+      "chr": 10,
+      "luc": -20,
+      "psi": 30
+   },
+   "Yint’s Species": {
+      "str": 10,
+      "end": 0,
+      "int": 0,
+      "dex": -5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -25
+   },
+   "Yridian": {
+      "str": -10,
+      "end": 5,
+      "int": 0,
+      "dex": -10,
+      "chr": -20,
+      "luc": -30,
+      "psi": -30
+   },
+   "Zakdorn": {
+      "str": -5,
+      "end": -5,
+      "int": 10,
+      "dex": 0,
+      "chr": -30,
+      "luc": -20,
+      "psi": -30
+   },
+   "Zaldan": {
+      "str": 10,
+      "end": 10,
+      "int": 0,
+      "dex": -5,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Zaranite": {
+      "str": -5,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -30,
+      "psi": -10
+   },
+   "Zeon": {
+      "str": 0,
+      "end": 0,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -20
+   },
+   "Zevian": {
+      "str": 0,
+      "end": -15,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -20
+   },
+   "Zibalian": {
+      "str": -5,
+      "end": -10,
+      "int": 0,
+      "dex": 5,
+      "chr": 0,
+      "luc": -30,
+      "psi": -20
+   },
+   "Zjod’s Species": {
+      "str": 10,
+      "end": 0,
+      "int": 5,
+      "dex": 0,
+      "chr": 0,
+      "luc": -15,
+      "psi": -20
+   },
+   "Zobral’s Species": {
+      "str": 10,
+      "end": 5,
+      "int": 0,
+      "dex": 0,
+      "chr": 0,
+      "luc": -10,
+      "psi": -30
+   },
+   "Zolan’s Species": {
+      "str": -5,
+      "end": 10,
+      "int": 0,
+      "dex": 0,
+      "chr": -20,
+      "luc": -20,
+      "psi": -20
+   }
+}
